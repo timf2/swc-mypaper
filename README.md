@@ -1,5 +1,5 @@
 # swc-mypaper
-A paper on how to use github for paper writing.
+A paper on how to use github FOR paper writing.
 sadas
 ##abstract
 servus und guten morgen
