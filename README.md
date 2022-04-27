@@ -1,11 +1,11 @@
 # swc-mypaper
-A paper on how to use github FOR paper writing.
-sadas
-##abstract
+
+A publication on how to use github for paper writing.
+## abstract
 servus und guten morgen
-##introduction
+## introduction
 an introduction
-##Experimental Setup
+## Experimental Setup
 ### Previous Experiments
 ### What we have changed
 - item 1
